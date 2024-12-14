@@ -14,7 +14,7 @@
     "OWNER_NUMBER": {
             "description": "Type Your Number Here",
             "required": true,
-            "value": "94711453361"
+            "value": ""
         }
     },
          "buildpacks": [
